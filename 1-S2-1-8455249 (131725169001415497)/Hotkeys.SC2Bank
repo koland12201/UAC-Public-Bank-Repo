@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Enforcer">
+        <Key name="Protect &amp; Serve On/Off Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Shield Bash Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Crowd Control Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Ground Flare Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Smoke Grenade Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Focus Fire Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="17"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

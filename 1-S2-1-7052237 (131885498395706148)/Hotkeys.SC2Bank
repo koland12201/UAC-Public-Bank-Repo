@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Monomolecular Wire Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Specter">
+        <Key name="Penetrator Round Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Recon Drone Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Protect &amp; Serve On/Off Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Suppressive Fire On/Off Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+    </Section>
+    <Section name="Orbital Support Specialist">
+        <Key name="Orbital Satellite Recon Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Supply Drop Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Anabolic Performance Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Blood Transfusion/Improved Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="15"/>
+        </Key>
+        <Key name="C">
+            <Value int="13"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Flare Gun Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Plasma Grenade Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+        <Key name="Motion Sensor Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Ion Cannon Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Field Camera Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Strafe Run Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="HE Rocket Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

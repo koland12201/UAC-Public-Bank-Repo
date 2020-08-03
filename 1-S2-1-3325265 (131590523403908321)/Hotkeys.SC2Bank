@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Rapid Fire On/Off Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Section name="Heavy Gunner">
+        <Key name="Precise Aim On/Off Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Suppressive Fire On/Off Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Orbital Support Specialist">
+        <Key name="Shock Troopers Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Commando">
+        <Key name="Force Field Generator Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="12"/>
+        </Key>
+        <Key name="C">
+            <Value int="12"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

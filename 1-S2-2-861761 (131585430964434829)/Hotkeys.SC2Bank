@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="45"/>
+        </Key>
+        <Key name="C">
+            <Value int="49"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

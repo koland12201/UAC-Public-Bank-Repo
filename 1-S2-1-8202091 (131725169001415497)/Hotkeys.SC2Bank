@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Cavalry Scout">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Anabolic Performance Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+        <Key name="Blood Transfusion/Improved Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Nano-Injection/Improved Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Pain Killer/Improved Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Ground Flare Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Focus Fire Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="19"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

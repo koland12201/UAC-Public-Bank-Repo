@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Camouflage Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Smoke Grenade Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="7"/>
+        </Key>
+        <Key name="C">
+            <Value int="22"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Strafe Run Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="AT Rocket Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Smoke Grenade Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

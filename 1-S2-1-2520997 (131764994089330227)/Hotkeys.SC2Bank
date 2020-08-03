@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Specter">
+        <Key name="Field Camera Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Cloak On/Off Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Camouflage Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="47"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

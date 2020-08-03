@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Specter">
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/N"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="12"/>
+        </Key>
+        <Key name="C">
+            <Value int="19"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Leadership Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Strafe Run Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

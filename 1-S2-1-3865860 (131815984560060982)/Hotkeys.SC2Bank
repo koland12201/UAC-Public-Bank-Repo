@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="36"/>
+        </Key>
+        <Key name="C">
+            <Value int="32"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Flare Gun Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Plasma Grenade Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

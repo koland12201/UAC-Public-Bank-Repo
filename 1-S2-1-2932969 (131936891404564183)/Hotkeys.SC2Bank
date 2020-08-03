@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Cavalry Scout">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="35"/>
+        </Key>
+        <Key name="C">
+            <Value int="49"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Specter">
+        <Key name="Cloak On/Off Hotkey">
+            <Value string="Button/Hotkey/V"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Camouflage Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Cyborg">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Charge Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Stealth On/Off Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="17"/>
+        </Key>
+        <Key name="C">
+            <Value int="34"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

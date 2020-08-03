@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="IBD">
+        <Key name="UAC">
+            <Value string="24mEcFi__MFv7K3VPmOJmKJ71K1ZOBVHtiBkvO5El1LboaP8Rf9NIDsNgm5uhIZLDIeU6oVavanSBxvk7wYH2T7SMrSQEWjmUjEXOu3ibe5WhgA-MejVoxIvAR81t_nV0qa1Hx"/>
+        </Key>
+    </Section>
+    <Section name="IBH">
+        <Key name="ID">
+            <Value string="1-S2-1-7375021"/>
+        </Key>
+        <Key name="HEAD">
+            <Value string="pdnQDZeuV29DviNNDOlED8QgzzmV4SyITQuO6MrJNA_nHAZY"/>
+        </Key>
+    </Section>
+    <Signature value="D78B4B3EF27BC2F298C50311B397E5466FF3363F"/>
+</Bank>

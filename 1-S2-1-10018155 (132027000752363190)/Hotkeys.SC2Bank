@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="C">
+            <Value int="30"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/V"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Rapid Fire On/Off Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Field Camera Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="47"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

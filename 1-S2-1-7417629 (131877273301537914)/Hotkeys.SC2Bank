@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Cyborg">
+        <Key name="Meltdown On/Off Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="10"/>
+        </Key>
+        <Key name="C">
+            <Value int="21"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Leadership Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Flash Hotkey">
+            <Value string="Button/Hotkey/V"/>
+        </Key>
+        <Key name="Sentry Gun Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Repair Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

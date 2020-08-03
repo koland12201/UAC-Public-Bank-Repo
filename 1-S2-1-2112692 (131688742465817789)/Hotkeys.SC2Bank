@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Flamethrower">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Squad Designated Marksman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Heavy Gunner">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="40"/>
+        </Key>
+        <Key name="C">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Laser Enforcer">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

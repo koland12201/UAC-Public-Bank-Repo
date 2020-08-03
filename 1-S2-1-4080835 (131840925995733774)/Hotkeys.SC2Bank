@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Cavalry Scout">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="44"/>
+        </Key>
+        <Key name="C">
+            <Value int="21"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

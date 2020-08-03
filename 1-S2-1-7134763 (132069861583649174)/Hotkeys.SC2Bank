@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="C">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Repair Hotkey">
+            <Value string="Button/Hotkey/P"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Cluster Rockets Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Smoke Grenade Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

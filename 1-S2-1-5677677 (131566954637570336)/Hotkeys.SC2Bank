@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/I"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="16"/>
+        </Key>
+        <Key name="C">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

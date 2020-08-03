@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ZCampaign|MissionCompletedAge">
+        <Key name="ZEvolutionZergling">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionBaneling">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionObjectives">
+        <Key name="ZLab01Objective09">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar01Objective5">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZLab03Objective4">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar02Objective02">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar03Objective4">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionBestTime">
+        <Key name="ZChar3-2">
+            <Value int="1245"/>
+        </Key>
+        <Key name="ZLab1-4">
+            <Value int="717"/>
+        </Key>
+        <Key name="ZLab2-4">
+            <Value int="988"/>
+        </Key>
+        <Key name="ZChar1-4">
+            <Value int="1194"/>
+        </Key>
+        <Key name="ZChar2-2">
+            <Value int="1318"/>
+        </Key>
+        <Key name="ZLab3-4">
+            <Value int="1620"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
