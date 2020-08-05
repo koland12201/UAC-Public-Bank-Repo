@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ZCampaign|MissionObjectives">
+        <Key name="ZLab01Objective09">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionBestTime">
+        <Key name="ZLab2-3">
+            <Value int="976"/>
+        </Key>
+        <Key name="ZLab1-3">
+            <Value int="661"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
