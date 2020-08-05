@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="29"/>
+        </Key>
+        <Key name="C">
+            <Value int="47"/>
+        </Key>
+    </Section>
+    <Signature value="5F651E64F342B90E1D28E3B2D00110F93137326A"/>
+</Bank>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Shield Bash Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="6"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
