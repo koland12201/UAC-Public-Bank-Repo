@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Flamethrower">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/L"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="13"/>
+        </Key>
+        <Key name="C">
+            <Value int="42"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

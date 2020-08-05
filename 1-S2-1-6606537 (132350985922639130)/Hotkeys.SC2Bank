@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Heavy Gunner">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Specter">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Field Camera Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="17"/>
+        </Key>
+        <Key name="C">
+            <Value int="19"/>
+        </Key>
+    </Section>
+    <Section name="Laser Enforcer">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

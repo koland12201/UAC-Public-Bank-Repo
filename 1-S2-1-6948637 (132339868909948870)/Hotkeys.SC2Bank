@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Specter">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Heavy Gunner">
+        <Key name="Precise Aim On/Off Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Shield Bash Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/Y"/>
+        </Key>
+    </Section>
+    <Section name="Orbital Support Specialist">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Cyborg">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Commando">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Automatic Mode Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="38"/>
+        </Key>
+        <Key name="C">
+            <Value int="31"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
