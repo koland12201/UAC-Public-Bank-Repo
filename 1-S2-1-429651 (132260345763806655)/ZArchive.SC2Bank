@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ZCampaign|MissionObjectives">
+        <Key name="ZLab01Objective09">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZHybrid02Objective02">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZZerus02Objective02">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZLab03Objective4">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZExpedition03Objective010">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZChar01Objective5">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZHybrid01Objective03">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZExpedition01Objective05">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZChar02Objective02">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZZerus03Objective03">
+            <Value int="4"/>
+        </Key>
+        <Key name="ZExpedition02Objective1">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar03Objective4">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZZerus01Objective03">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionCompletedAge">
+        <Key name="ZEvolutionMutalisk">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionHydralisk">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionZergling">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionRoach">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionBaneling">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionBestTime">
+        <Key name="ZExpedition1-3">
+            <Value int="2371"/>
+        </Key>
+        <Key name="ZZerus1-3">
+            <Value int="2990"/>
+        </Key>
+        <Key name="ZHybrid1-3">
+            <Value int="5308"/>
+        </Key>
+        <Key name="ZHybrid2-3">
+            <Value int="1750"/>
+        </Key>
+        <Key name="ZLab3-3">
+            <Value int="1412"/>
+        </Key>
+        <Key name="ZExpedition3-3">
+            <Value int="1229"/>
+        </Key>
+        <Key name="ZZerus3-3">
+            <Value int="1816"/>
+        </Key>
+        <Key name="ZExpedition2-3">
+            <Value int="1571"/>
+        </Key>
+        <Key name="ZLab1-3">
+            <Value int="685"/>
+        </Key>
+        <Key name="ZLab2-3">
+            <Value int="934"/>
+        </Key>
+        <Key name="ZZerus2-3">
+            <Value int="1607"/>
+        </Key>
+        <Key name="ZChar2-3">
+            <Value int="1795"/>
+        </Key>
+        <Key name="ZChar1-3">
+            <Value int="2140"/>
+        </Key>
+        <Key name="ZChar3-3">
+            <Value int="2239"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
