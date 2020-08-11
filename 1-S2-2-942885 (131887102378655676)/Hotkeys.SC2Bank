@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Flamethrower">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Fuel Discharge Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="29"/>
+        </Key>
+        <Key name="C">
+            <Value int="31"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Flamethrower">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Squad Designated Marksman">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Heavy Gunner">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Specter">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Crowd Control Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Cavalry Scout">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Orbital Support Specialist">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Nano-Injection/Improved Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Frag/MGL Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Cyborg">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Agility On/Off Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+    </Section>
+    <Section name="Commando">
+        <Key name="Explosive Charge Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="36"/>
+        </Key>
+        <Key name="C">
+            <Value int="31"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Flare Gun Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Laser Enforcer">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Strafe Run Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Orbital Satellite Recon Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/Z"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Immediate Smoke Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Explosive Charge Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MissionCompletedAge">
+        <Key name="29">
+            <Value int="1"/>
+        </Key>
+        <Key name="14">
+            <Value int="11"/>
+        </Key>
+        <Key name="4">
+            <Value int="18"/>
+        </Key>
+        <Key name="28">
+            <Value int="2"/>
+        </Key>
+        <Key name="9">
+            <Value int="7"/>
+        </Key>
+        <Key name="19">
+            <Value int="9"/>
+        </Key>
+        <Key name="6">
+            <Value int="14"/>
+        </Key>
+        <Key name="1">
+            <Value int="21"/>
+        </Key>
+        <Key name="3">
+            <Value int="19"/>
+        </Key>
+        <Key name="26">
+            <Value int="3"/>
+        </Key>
+        <Key name="20">
+            <Value int="6"/>
+        </Key>
+        <Key name="8">
+            <Value int="8"/>
+        </Key>
+        <Key name="2">
+            <Value int="20"/>
+        </Key>
+        <Key name="11">
+            <Value int="4"/>
+        </Key>
+        <Key name="21">
+            <Value int="5"/>
+        </Key>
+        <Key name="15">
+            <Value int="10"/>
+        </Key>
+        <Key name="13">
+            <Value int="12"/>
+        </Key>
+        <Key name="12">
+            <Value int="15"/>
+        </Key>
+        <Key name="17">
+            <Value int="16"/>
+        </Key>
+        <Key name="18">
+            <Value int="13"/>
+        </Key>
+        <Key name="5">
+            <Value int="17"/>
+        </Key>
+    </Section>
+    <Section name="Hotspots">
+        <Key name="Hotspots|CantinaTrophyHansonA">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryViking">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaTrophyToshB">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryMarauder">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryBanshee">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CharConsole">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|MarSaraFreedomPoster">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|LabTubeProtoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CharWarfield">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryGhostRifle">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaMercLaptop">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|LabTubeZerg">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaTrophyClaw">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmorySwann">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryFirebat">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmorySpiderMine">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|BridgeHorner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaTrophyHorner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmorySiegeTank">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|LabHanson">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|BridgeBattleReport">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|LabConsole">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspots|ArmoryMedivac">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ScenePlayed">
+        <Key name="16">
+            <Value flag="1"/>
+        </Key>
+        <Key name="14">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value flag="1"/>
+        </Key>
+        <Key name="10">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11">
+            <Value flag="1"/>
+        </Key>
+        <Key name="7">
+            <Value flag="1"/>
+        </Key>
+        <Key name="15">
+            <Value flag="1"/>
+        </Key>
+        <Key name="17">
+            <Value flag="1"/>
+        </Key>
+        <Key name="12">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="ObjectiveCreditsEarnedLastMission"/>
+    <Section name="SceneExtraObjects">
+        <Key name="SceneExtraObjects|Terran10TrophyHorner">
+            <Value int="1"/>
+        </Key>
+        <Key name="SceneExtraObjects|Terran07TrophyHorner">
+            <Value int="1"/>
+        </Key>
+        <Key name="SceneExtraObjects|Terran10TrophyHanson03A">
+            <Value int="1"/>
+        </Key>
+        <Key name="SceneExtraObjects|Terran07TrophyHanson03A">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryMisc">
+        <Key name="1">
+            <Value string="000000000000000"/>
+        </Key>
+        <Key name="3">
+            <Value int="8"/>
+        </Key>
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+        <Key name="7">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchProgressZerg">
+        <Key name="4">
+            <Value int="3"/>
+        </Key>
+        <Key name="19">
+            <Value int="3"/>
+        </Key>
+        <Key name="12">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="Tips">
+        <Key name="StoryTips|Raynor02_Medics">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner01_DefilerBones">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner04_Thor">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|MissionNewStructureFactory">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner03_OdinRepair">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor02_ResourceCaches">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh02_Goliath">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh01_Liftoff">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh02_Terrazine">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh02_StopProtoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|NewZergResearch">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner03_Cloak">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor01_Marines">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor03_Reactor">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus03_HighGround">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_BattleCruisers">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Lab">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson03a_Purifier">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus02_RelicShrines">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus04_WalloFire">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Valerian02b_Explosion">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner04_Barrage">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Armory">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner04_Odin">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus04_Banshees">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus02_SiegeTanks">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus03_Transporting">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor01_UniqueUnits">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor02_TechLab">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner01_FireOnMove">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh03b_Domination">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner03_Wraith">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson01_Chrysalis">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus02_LaserDrillControl">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson01_Firebats">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh01_Reapers">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson01_EscortStrat">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus02_LaserDrillAA">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus04_Cloak">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|MissionNewStructureStarport">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus04_BaseMigration">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_Hellion">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_DayNight">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor03_Repair">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_SensorTower">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Valerian03_EnergyNova">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus01_ProtossRelic">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_Prisoners">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus03_Medivac">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh01_RichMinerals">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Mercenaries">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_FusionCore">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Valerian02b_Leviathan">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|EngineeringBay2">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Campaign_Creep">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner02_MercContract">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Valerian01_DominionTroops">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|KeyboardShortcuts">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor03_EngineeringBay">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus02_DefenseStrat">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner03_EscortingOdin">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_Vortex">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner01_Diamonback">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|MissionMercenaries">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor03_Bunker">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_RipFields">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|ArmoryConsole">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Credits">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Char">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor02_SCV">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|ArmoryLevel2">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|NewTechnology">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner02_StopOrlan">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner02_SpiderMines">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner04_TrainTroops">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Valerian02b_CoolantTowers">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hyperion">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Crystal">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|NewProtossResearch">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner02_Vultures">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|ArmoryLevel3">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Research">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Objects">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor02_Supply">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|EngineeringBay3">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Cantina">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Raynor03_MissileTurret">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus05_Yamato">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus01_Pylons">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh01_Brutalisk">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tosh03b_Snipe">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson03_Viking">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|NewMercenaries">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Horner02_Scrap">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryTips|Tychus01_Marauder">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchState">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="16">
+            <Value int="2"/>
+        </Key>
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="8">
+            <Value int="2"/>
+        </Key>
+        <Key name="11">
+            <Value int="2"/>
+        </Key>
+        <Key name="13">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchProgressProtoss">
+        <Key name="9">
+            <Value int="3"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
+        </Key>
+        <Key name="21">
+            <Value int="4"/>
+        </Key>
+        <Key name="13">
+            <Value int="3"/>
+        </Key>
+        <Key name="17">
+            <Value int="3"/>
+        </Key>
+        <Key name="18">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchOldLevelUI">
+        <Key name="1">
+            <Value int="20"/>
+        </Key>
+        <Key name="2">
+            <Value int="16"/>
+        </Key>
+    </Section>
+    <Section name="LabResearchOldLevel">
+        <Key name="1">
+            <Value int="20"/>
+        </Key>
+        <Key name="2">
+            <Value int="16"/>
+        </Key>
+    </Section>
+    <Section name="ArcadeGame"/>
+    <Section name="NewsPlayed">
+        <Key name="StoryNews|THanson02">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionAvailableAge"/>
+    <Section name="ObjectiveProgress">
+        <Key name="MissionObjective|TTosh03B_4">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="HelpUnitsPanel">
+        <Key name="29">
+            <Value string="Battlecruiser"/>
+        </Key>
+        <Key name="31">
+            <Value string="DukesRevenge"/>
+        </Key>
+        <Key name="16">
+            <Value string="SiegeTank"/>
+        </Key>
+        <Key name="14">
+            <Value string="VikingFighter"/>
+        </Key>
+        <Key name="4">
+            <Value string="Medic"/>
+        </Key>
+        <Key name="28">
+            <Value string="DuskWing"/>
+        </Key>
+        <Key name="25">
+            <Value string="Goliath"/>
+        </Key>
+        <Key name="30">
+            <Value string="Ghost"/>
+        </Key>
+        <Key name="9">
+            <Value string="Hellion"/>
+        </Key>
+        <Key name="19">
+            <Value string="Vulture"/>
+        </Key>
+        <Key name="6">
+            <Value string="MissileTurret"/>
+        </Key>
+        <Key name="1">
+            <Value string="Marine"/>
+        </Key>
+        <Key name="3">
+            <Value string="CommandCenter"/>
+        </Key>
+        <Key name="26">
+            <Value string="Banshee"/>
+        </Key>
+        <Key name="27">
+            <Value string="SpartanCompany"/>
+        </Key>
+        <Key name="20">
+            <Value string="Wraith"/>
+        </Key>
+        <Key name="8">
+            <Value string="WarPig"/>
+        </Key>
+        <Key name="0">
+            <Value int="34"/>
+        </Key>
+        <Key name="10">
+            <Value string="SensorTower"/>
+        </Key>
+        <Key name="2">
+            <Value string="SCV"/>
+        </Key>
+        <Key name="23">
+            <Value string="Hercules"/>
+        </Key>
+        <Key name="21">
+            <Value string="Thor"/>
+        </Key>
+        <Key name="11">
+            <Value string="Marauder"/>
+        </Key>
+        <Key name="32">
+            <Value string="ScienceVessel"/>
+        </Key>
+        <Key name="15">
+            <Value string="HelsAngelFighter"/>
+        </Key>
+        <Key name="7">
+            <Value string="Firebat"/>
+        </Key>
+        <Key name="34">
+            <Value string="NuclearReactor"/>
+        </Key>
+        <Key name="24">
+            <Value string="Reaper"/>
+        </Key>
+        <Key name="22">
+            <Value string="Medivac"/>
+        </Key>
+        <Key name="17">
+            <Value string="PlanetaryFortress"/>
+        </Key>
+        <Key name="13">
+            <Value string="Diamondback"/>
+        </Key>
+        <Key name="12">
+            <Value string="HammerSecurity"/>
+        </Key>
+        <Key name="18">
+            <Value string="SiegeBreaker"/>
+        </Key>
+        <Key name="5">
+            <Value string="Bunker"/>
+        </Key>
+    </Section>
+    <Section name="StoryStage">
+        <Key name="4">
+            <Value int="29"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8">
+            <Value int="285000"/>
+        </Key>
+        <Key name="2">
+            <Value int="29"/>
+        </Key>
+        <Key name="7">
+            <Value int="29"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionCompletion">
+        <Key name="6-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="12-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="17-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="13-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="21-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="8-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="19-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="1-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="28-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="15-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="26-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="11-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="20-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="29-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="14-Normal">
+            <Value flag="1"/>
+        </Key>
+        <Key name="18-Normal">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryState">
+        <Key name="StoryState|HornerOn">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|ArmoryOpened">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|TipNewProtossResearchPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaVisited">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|FirstMissionMercBought">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|HansonOn">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|LabHornerLinePlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaHornerLinePlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|TipFactoryPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|ArmoryVisited">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaIntroDone">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|LabVisited">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|SwannOn">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|TipStarportPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|BattleReportCurrentSel">
+            <Value int="2"/>
+        </Key>
+        <Key name="StoryState|LabIntroDone">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|TipNewZergResearchPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|TipZergCreepPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|Hanson02DebriefingDone">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|CharInvasionStarted">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|ArmoryIntroDone">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|WarfieldOn">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaOpened">
+            <Value int="1"/>
+        </Key>
+        <Key name="StoryState|LabOpened">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionBestTime">
+        <Key name="6-Normal">
+            <Value int="931"/>
+        </Key>
+        <Key name="12-Normal">
+            <Value int="1497"/>
+        </Key>
+        <Key name="5-Normal">
+            <Value int="1391"/>
+        </Key>
+        <Key name="17-Normal">
+            <Value int="708"/>
+        </Key>
+        <Key name="2-Normal">
+            <Value int="475"/>
+        </Key>
+        <Key name="13-Normal">
+            <Value int="1420"/>
+        </Key>
+        <Key name="4-Normal">
+            <Value int="1466"/>
+        </Key>
+        <Key name="21-Normal">
+            <Value int="1571"/>
+        </Key>
+        <Key name="8-Normal">
+            <Value int="814"/>
+        </Key>
+        <Key name="19-Normal">
+            <Value int="1116"/>
+        </Key>
+        <Key name="1-Normal">
+            <Value int="213"/>
+        </Key>
+        <Key name="28-Normal">
+            <Value int="1282"/>
+        </Key>
+        <Key name="15-Normal">
+            <Value int="1224"/>
+        </Key>
+        <Key name="3-Normal">
+            <Value int="1212"/>
+        </Key>
+        <Key name="26-Normal">
+            <Value int="988"/>
+        </Key>
+        <Key name="9-Normal">
+            <Value int="1320"/>
+        </Key>
+        <Key name="11-Normal">
+            <Value int="1139"/>
+        </Key>
+        <Key name="20-Normal">
+            <Value int="1376"/>
+        </Key>
+        <Key name="29-Normal">
+            <Value int="1808"/>
+        </Key>
+        <Key name="14-Normal">
+            <Value int="1612"/>
+        </Key>
+        <Key name="18-Normal">
+            <Value int="1773"/>
+        </Key>
+    </Section>
+    <Section name="DebugTechCheatOption">
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="TutorialHistory">
+        <Key name="7_3">
+            <Value string="Assets\Textures\btn-building-terran-commandcenter.dds"/>
+        </Key>
+        <Key name="4_2">
+            <Value text="您可以在兵营中训练陆战队员以及其他单位。要训练陆战队员，首先选中兵营，点击训练陆战队员按钮。"/>
+        </Key>
+        <Key name="7_4">
+            <Value string="Assets\Textures\video_tutorial_terran_base_construction.ogv"/>
+        </Key>
+        <Key name="2_2">
+            <Value text="将光标移至屏幕边缘时，镜头将向该方向滚动。"/>
+        </Key>
+        <Key name="6_2">
+            <Value text="您必须有足够的补给才能训练单位。建造更多的补给站可以增加您的补给。"/>
+        </Key>
+        <Key name="3_1">
+            <Value text="单位移动"/>
+        </Key>
+        <Key name="2_1">
+            <Value text="镜头控制"/>
+        </Key>
+        <Key name="7_2">
+            <Value text="您可以使用建筑训练单位或为您的单位进行升级。要建造一个建筑，首先选中一个SCV，点击对应的建造建筑按钮。"/>
+        </Key>
+        <Key name="7_1">
+            <Value text="建造建筑"/>
+        </Key>
+        <Key name="1_4">
+            <Value string="Assets\Textures\video_tutorial_combat.ogv"/>
+        </Key>
+        <Key name="2_3">
+            <Value string="Assets\Textures\ui_tutorial_cameraicon.dds"/>
+        </Key>
+        <Key name="1_2">
+            <Value text="在选中单位后，使用鼠标右键点击一名敌人，以发出一项攻击指令。"/>
+        </Key>
+        <Key name="0">
+            <Value int="7"/>
+        </Key>
+        <Key name="5_2">
+            <Value text="您必须有足够的晶体矿和高能瓦斯才能训练单位或建造建筑。要采集这些资源，选中一个SCV，右键点击矿脉或精炼厂。"/>
+        </Key>
+        <Key name="4_4">
+            <Value string="Assets\Textures\video_tutorial_terran_unit_production.ogv"/>
+        </Key>
+        <Key name="5_1">
+            <Value text="采集资源"/>
+        </Key>
+        <Key name="4_1">
+            <Value text="正在训练单位"/>
+        </Key>
+        <Key name="2_4">
+            <Value string="Assets\Textures\video_tutorial_camera_control.ogv"/>
+        </Key>
+        <Key name="1_3">
+            <Value string="Assets\Textures\btn-command-attack.dds"/>
+        </Key>
+        <Key name="6_1">
+            <Value text="补给"/>
+        </Key>
+        <Key name="5_3">
+            <Value string="Assets\Textures\icon-mineral-terran.dds"/>
+        </Key>
+        <Key name="6_3">
+            <Value string="Assets\Textures\icon-supply-terran.dds"/>
+        </Key>
+        <Key name="5_4">
+            <Value string="Assets\Textures\video_tutorial_resource_collection.ogv"/>
+        </Key>
+        <Key name="3_2">
+            <Value text="单位选中后，单击鼠标右键命令单位进行移动。"/>
+        </Key>
+        <Key name="3_3">
+            <Value string="Assets\Textures\btn-command-move.dds"/>
+        </Key>
+        <Key name="1_1">
+            <Value text="攻击"/>
+        </Key>
+        <Key name="6_4">
+            <Value string="Assets\Textures\video_tutorial_terran_supply.ogv"/>
+        </Key>
+        <Key name="4_3">
+            <Value string="Assets\Textures\btn-unit-terran-marine.dds"/>
+        </Key>
+        <Key name="3_4">
+            <Value string="Assets\Textures\video_tutorial_movement.ogv"/>
+        </Key>
+    </Section>
+    <Section name="MercStatus">
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="6">
+            <Value int="2"/>
+        </Key>
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="3">
+            <Value int="2"/>
+        </Key>
+        <Key name="8">
+            <Value int="2"/>
+        </Key>
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+        <Key name="7">
+            <Value int="2"/>
+        </Key>
+        <Key name="5">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="TechStatus">
+        <Key name="38">
+            <Value int="1"/>
+        </Key>
+        <Key name="29">
+            <Value int="2"/>
+        </Key>
+        <Key name="31">
+            <Value int="4"/>
+        </Key>
+        <Key name="33">
+            <Value int="2"/>
+        </Key>
+        <Key name="16">
+            <Value int="2"/>
+        </Key>
+        <Key name="14">
+            <Value int="4"/>
+        </Key>
+        <Key name="4">
+            <Value int="2"/>
+        </Key>
+        <Key name="28">
+            <Value int="4"/>
+        </Key>
+        <Key name="25">
+            <Value int="4"/>
+        </Key>
+        <Key name="40">
+            <Value int="1"/>
+        </Key>
+        <Key name="30">
+            <Value int="2"/>
+        </Key>
+        <Key name="9">
+            <Value int="2"/>
+        </Key>
+        <Key name="19">
+            <Value int="4"/>
+        </Key>
+        <Key name="6">
+            <Value int="4"/>
+        </Key>
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="39">
+            <Value int="1"/>
+        </Key>
+        <Key name="3">
+            <Value int="2"/>
+        </Key>
+        <Key name="27">
+            <Value int="2"/>
+        </Key>
+        <Key name="26">
+            <Value int="4"/>
+        </Key>
+        <Key name="35">
+            <Value int="2"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
+        </Key>
+        <Key name="8">
+            <Value int="4"/>
+        </Key>
+        <Key name="2">
+            <Value int="2"/>
+        </Key>
+        <Key name="10">
+            <Value int="2"/>
+        </Key>
+        <Key name="43">
+            <Value int="4"/>
+        </Key>
+        <Key name="23">
+            <Value int="4"/>
+        </Key>
+        <Key name="21">
+            <Value int="2"/>
+        </Key>
+        <Key name="44">
+            <Value int="1"/>
+        </Key>
+        <Key name="11">
+            <Value int="2"/>
+        </Key>
+        <Key name="37">
+            <Value int="1"/>
+        </Key>
+        <Key name="32">
+            <Value int="4"/>
+        </Key>
+        <Key name="15">
+            <Value int="4"/>
+        </Key>
+        <Key name="7">
+            <Value int="2"/>
+        </Key>
+        <Key name="36">
+            <Value int="4"/>
+        </Key>
+        <Key name="22">
+            <Value int="2"/>
+        </Key>
+        <Key name="17">
+            <Value int="1"/>
+        </Key>
+        <Key name="24">
+            <Value int="4"/>
+        </Key>
+        <Key name="34">
+            <Value int="2"/>
+        </Key>
+        <Key name="13">
+            <Value int="4"/>
+        </Key>
+        <Key name="12">
+            <Value int="1"/>
+        </Key>
+        <Key name="18">
+            <Value int="1"/>
+        </Key>
+        <Key name="5">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Conversation">
+        <Key name="LabHanson|Line00044">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="CharWarfield|Line00002">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="ArmorySwann|Line00065">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="LabFidgetsArtifact|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="LabHanson|Line00071">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="MarSaraFidgetsFreedomposter|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="LabHanson|Line00001">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="CharWarfield|Line00001">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="CharWarfield|Line00004">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="CharWarfield|Line00005">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="ArmorySwann|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="MarSaraFidgetsFreedomposter|Line00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="LabHanson|Line00031">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="LabFidgetsArtifact|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="LabFidgetsArtifact|Line00012">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Line00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Line00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Line00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="BridgeHorner|Line00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Line00003">
+            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="BridgeHorner|Line00131">
+            <Value int="1"/>
+        </Key>
+        <Key name="BridgeHorner|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="MarSaraFidgetsFreedomposter|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="LabFidgetsArtifact|Line00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="LabFidgetsArtifact|Line00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="ArmorySwann|Line00066">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="ArmorySwann|Line00067">
+            <Value int="1"/>
+        </Key>
+        <Key name="MarSaraFidgetsFreedomposter|Line00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="LabHanson|Jump00011">
+            <Value int="2"/>
+        </Key>
+        <Key name="BridgeHorner|Line00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="BridgeHorner|Line00060">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="CharWarfield|Jump00001">
+            <Value int="2"/>
+        </Key>
+        <Key name="BridgeHorner|Line00073">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
