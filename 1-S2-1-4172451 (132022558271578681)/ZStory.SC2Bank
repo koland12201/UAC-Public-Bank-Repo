@@ -1,0 +1,4764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ConversationSnapshot">
+        <Key name="zSM_CharFortress|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00078">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00269">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00386">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00404">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00405">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00291">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00048">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00097">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00104">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00053">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00019">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00294">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00022">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00200">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00210">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00054">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00185">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00044">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00043">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00211">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00116">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00168">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00094">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00055">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00132">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00102">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00142">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00046">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00381">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00029">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00035">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00174">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00012">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00159">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00281">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00093">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00182">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00231">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00262">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00161">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00178">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00148">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00020">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00060">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00345">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00133">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00084">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00033">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00026">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00127">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00245">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00020">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00192">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00248">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00103">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00118">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00012">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00073">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00212">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00019">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00383">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00165">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00186">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00181">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00403">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00059">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00076">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00213">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00270">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00139">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Wait00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00109">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00090">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00049">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00166">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00213">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00029">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00071">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00039">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00037">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00157">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00261">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00349">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00414">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00230">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00086">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00157">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00163">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00074">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00384">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00057">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00186">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00027">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00067">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00176">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00217">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00016">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00226">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00295">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00417">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00164">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00206">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00388">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00174">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00252">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00259">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00025">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00152">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00026">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00169">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00028">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00114">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Wait00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00266">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00421">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00069">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00211">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00042">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00150">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00027">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00080">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00178">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00114">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00277">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00062">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00428">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00020">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00101">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00077">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00016">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00150">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00072">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00214">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00408">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00220">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00052">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00180">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00387">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00023">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00158">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00406">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00292">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00061">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00051">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00399">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00430">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00110">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00193">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00126">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00298">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00314">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00054">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00030">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00191">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00413">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00165">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00079">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00244">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00036">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00093">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00167">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00299">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00167">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00263">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00418">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00026">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00013">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00047">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00260">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00264">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00181">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00249">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00415">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00156">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00043">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00018">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00223">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00095">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00026">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00262">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00409">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00141">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00278">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00426">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00149">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00347">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00062">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00039">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00161">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00385">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00429">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00149">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00023">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Wait00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00267">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00016">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00064">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Jump00001">
+            <Value int="9"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00316">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00038">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00039">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00113">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00132">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00265">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00250">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00198">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00060">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00113">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00139">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00183">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00261">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00012">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00155">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00031">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00199">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00265">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00100">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00108">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00057">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00293">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00398">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00205">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00108">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00112">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00142">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00156">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00189">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00155">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00018">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00025">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00152">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00152">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00160">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00169">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00247">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00190">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00264">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00088">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00096">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00032">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00148">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00210">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00188">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00116">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00260">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00081">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00121">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00296">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00176">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00048">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00204">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00046">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00402">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00411">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00412">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00263">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00168">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00209">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00407">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00179">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00201">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00025">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00140">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00023">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00184">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00020">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00187">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00070">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00012">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00089">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00133">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00126">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00049">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00091">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00099">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00037">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Jump00031">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00028">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00044">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00023">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00118">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00013">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00208">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00224">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00131">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00056">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00013">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00023">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00245">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00121">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00140">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00162">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00416">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00038">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00380">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00410">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00024">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00016">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00098">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00268">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00346">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00031">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00058">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00031">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00036">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00027">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00075">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00061">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00109">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00035">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00215">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00389">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00020">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00158">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00184">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00189">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00037">
+            <Value int="3"/>
+            <Value int="3"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00092">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00009">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="StoryConversations">
+        <Key name="zSM_CharFortress|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00078">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00269">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00386">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00404">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00405">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00291">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00048">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00097">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00104">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00053">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00019">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00294">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00022">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00200">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00210">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00054">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00185">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00044">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00043">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00211">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00116">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00168">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00094">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00055">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00132">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00102">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00142">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00046">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00381">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00029">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00035">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00174">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00012">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00159">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00281">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00093">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00182">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00231">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00262">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00161">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00178">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00148">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00020">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00060">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00345">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00133">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00084">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00033">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00026">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00127">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00245">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00128">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00020">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00192">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00248">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00103">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00118">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00012">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00073">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00212">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00019">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00383">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00165">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00186">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00181">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00403">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00059">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00076">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00213">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00270">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00139">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Wait00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00109">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00090">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00124">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00049">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00166">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00213">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00029">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00071">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00039">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00037">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00157">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00015">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00261">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00349">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00414">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00151">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00230">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00086">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00157">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00163">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00074">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00384">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00057">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00186">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00027">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00067">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00176">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00217">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00016">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00226">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00295">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00417">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00164">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00010">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00206">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00388">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00174">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00252">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00259">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00025">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00152">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00026">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00169">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00028">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00114">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Wait00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00266">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00421">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00069">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00211">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00042">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00150">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00027">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00080">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00178">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00114">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00277">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00062">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00428">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00020">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00101">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00077">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00172">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00016">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00150">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00072">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00214">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00408">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00220">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00052">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00180">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00387">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00023">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00158">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00406">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00292">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00061">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00051">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00175">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00399">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00430">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00110">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00193">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00126">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00298">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00314">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00054">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00030">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00191">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00413">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00165">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00079">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00244">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00036">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00093">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00167">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00170">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00299">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00167">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_ZergAdjutant|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00263">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00418">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00026">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00013">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00047">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00003">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00260">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00264">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00181">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00249">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00415">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00156">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00043">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00146">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00018">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00223">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00095">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00111">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00026">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00262">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00409">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00141">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00278">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00426">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00149">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00347">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00062">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00039">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00161">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00385">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00429">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00149">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00023">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00129">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Wait00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00267">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00115">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00122">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00016">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00177">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00064">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Jump00001">
+            <Value int="9"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00316">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00038">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00039">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00113">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00132">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00265">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00120">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00250">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00198">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00030">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00060">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00113">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00130">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00139">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00183">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00261">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00032">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00012">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00155">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00031">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00199">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00022">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00007">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00019">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00265">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00100">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00108">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00057">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Line00006">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00002">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00293">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00398">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00018">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00205">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00108">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00112">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00142">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00156">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00189">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00155">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00018">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00005">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_HybridLab|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00011">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00025">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00152">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00152">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00160">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00169">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00173">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ExpeditionHatchery|Line00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00247">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00190">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00264">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00017">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00088">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00096">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00032">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00148">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00210">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00188">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00116">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Jump00007">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00260">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00081">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00121">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00017">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00296">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00176">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00015">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00048">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00204">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00046">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00008">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00123">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00014">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00402">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00411">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00412">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00263">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00168">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00209">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00407">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00179">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00201">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Kerrigan|Line00034">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00025">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00147">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00140">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00023">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00184">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00020">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00187">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00005">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00070">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00171">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00011">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Jump00013">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_Stukov|Line00012">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Jump00006">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00089">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00133">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00126">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_CharFortress|Jump00003">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00049">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00050">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00145">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00091">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00099">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00009">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00037">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Jump00031">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00028">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00044">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00153">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00023">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00118">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Zeratul|Line00013">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00208">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00224">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00117">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00131">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00004">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00014">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00028">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00056">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00125">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_PrimalZergAdvisor|Line00013">
+            <Value int="2"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00023">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00024">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00245">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00143">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00121">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00009">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00140">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00119">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00144">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_PrimalZergAdvisor|Line00162">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00416">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00154">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00038">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalWorld|Line00001">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00380">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00410">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Jump00024">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00040">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00041">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00010">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00016">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00098">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_KorhalPalace|Line00002">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZerusAncientOne|Jump00001">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00268">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00346">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00031">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00058">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00031">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00036">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ProtossPrisoner|Line00027">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Stukov|Line00075">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_Valerian|Line00008">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_EvolutionMaster|Line00004">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00061">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00109">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00035">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00215">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_ZergAdjutant|Line00389">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00020">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00021">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00158">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00184">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_EvolutionMaster|Line00189">
+            <Value int="1"/>
+        </Key>
+        <Key name="zSMAmbient_RogueQueen|Line00037">
+            <Value int="3"/>
+            <Value int="3"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Line00092">
+            <Value int="1"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="zSM_RogueQueen|Jump00009">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="WriterStateSnapshot">
+        <Key name="WriterStates.CharChoice">
+            <Value int="2"/>
+        </Key>
+        <Key name="WriterStates.KerriganPrimalColumn">
+            <Value int="2"/>
+        </Key>
+        <Key name="WriterStates.ToshChoice">
+            <Value int="2"/>
+        </Key>
+        <Key name="WriterStates.1stEvolutionMissionComplete">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.EvolutionMaster TalkTimes">
+            <Value int="4"/>
+        </Key>
+        <Key name="WriterStates.Evolution Explain">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.HansonChoice">
+            <Value int="2"/>
+        </Key>
+        <Key name="WriterStates.Korhal01BonusObjectiveComplete">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.Expedition02 Convo Played">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.TAdjutant_TravelPitch_FirstLine">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.ZagaraTalkTimes">
+            <Value int="1"/>
+        </Key>
+        <Key name="WriterStates.KerriganFirstTier">
+            <Value int="2"/>
+        </Key>
+        <Key name="WriterStates.KerriganFirstVisit">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="CharacterNew">
+        <Key name="Zerg Adjutant">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="0"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="0"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="0"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="0"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="1"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield's Compound">
+            <Value int="0"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="0"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="0"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="0"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="CharacterAmbient">
+        <Key name="Zerg Adjutant">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="1"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="0"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield's Compound">
+            <Value int="1"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="1"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="CharacterUnlocked">
+        <Key name="Zerg Adjutant">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Palace">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Space - Hyperion">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Expedition - Hatchery">
+            <Value int="0"/>
+        </Key>
+        <Key name="Horner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Arcturus Mengsk">
+            <Value int="1"/>
+        </Key>
+        <Key name="Zeratul">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master 2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zagara">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Advisor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Primal Ancient">
+            <Value int="1"/>
+        </Key>
+        <Key name="Evolution Master">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Hybrid - Station">
+            <Value int="0"/>
+        </Key>
+        <Key name="Nova">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Zerus - Void Seeker">
+            <Value int="0"/>
+        </Key>
+        <Key name="Protoss Prisoner">
+            <Value int="1"/>
+        </Key>
+        <Key name="Hotspot - Korhal - Planet">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hotspot - Char - Warfield's Compound">
+            <Value int="0"/>
+        </Key>
+        <Key name="Raynor">
+            <Value int="1"/>
+        </Key>
+        <Key name="Kerrigan">
+            <Value int="1"/>
+        </Key>
+        <Key name="Valerian">
+            <Value int="1"/>
+        </Key>
+        <Key name="Stukov">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Debug">
+        <Key name="DebugStoryScene">
+            <Value string="ScriptedScenes;"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

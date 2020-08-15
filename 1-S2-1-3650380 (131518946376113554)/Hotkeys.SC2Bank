@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="35"/>
+        </Key>
+        <Key name="C">
+            <Value int="36"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

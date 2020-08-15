@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Cavalry Scout">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="26"/>
+        </Key>
+        <Key name="C">
+            <Value int="39"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/T"/>
+        </Key>
+        <Key name="Barricade Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Flash Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+        <Key name="Sentry Gun Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Paralysis Trap Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Repair Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Cluster Rockets Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+        <Key name="Orbital Satellite Recon Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Immediate Smoke Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

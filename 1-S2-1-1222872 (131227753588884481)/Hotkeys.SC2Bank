@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Enforcer">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Protect &amp; Serve On/Off Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Crowd Control Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Orbital Support Specialist">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Blood Transfusion/Improved Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Nano-Injection/Improved Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Pain Killer/Improved Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Field Camera Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="26"/>
+        </Key>
+        <Key name="C">
+            <Value int="13"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Dismiss Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+        <Key name="Leadership Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Javelin Gunner">
+        <Key name="Claymore Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+        <Key name="AT Rocket Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+        <Key name="Paralysis Trap Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="HE Rocket Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Guided Missile Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
