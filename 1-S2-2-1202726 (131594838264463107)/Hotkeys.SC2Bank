@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

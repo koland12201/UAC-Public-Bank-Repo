@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/B"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/G"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/I"/>
+        </Key>
+        <Key name="Anabolic Performance Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/N"/>
+        </Key>
+        <Key name="Blood Transfusion/Improved Hotkey">
+            <Value string="Button/Hotkey/L"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/K"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Nano-Injection/Improved Hotkey">
+            <Value string="Button/Hotkey/M"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/J"/>
+        </Key>
+        <Key name="Pain Killer/Improved Hotkey">
+            <Value string="Button/Hotkey/H"/>
+        </Key>
+        <Key name="Revive Hotkey">
+            <Value string="Button/Hotkey/O"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
