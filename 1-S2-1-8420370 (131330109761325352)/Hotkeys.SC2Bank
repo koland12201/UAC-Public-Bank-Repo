@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Pain Killer/Improved Hotkey">
+            <Value string="Button/Hotkey/X"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="10"/>
+        </Key>
+        <Key name="C">
+            <Value int="48"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Dismiss Hotkey">
+            <Value string="Button/Hotkey/L"/>
+        </Key>
+        <Key name="Leadership Hotkey">
+            <Value string="Button/Hotkey/W"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ZCampaign|MissionObjectives">
+        <Key name="ZLab01Objective09">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZZerus02Objective02">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZLab03Objective4">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar01Objective5">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZExpedition01Objective05">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZChar02Objective02">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZZerus03Objective03">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZExpedition02Objective1">
+            <Value int="3"/>
+        </Key>
+        <Key name="ZChar03Objective4">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZZerus01Objective03">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionCompletedAge">
+        <Key name="ZEvolutionZergling">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZEvolutionBaneling">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ZCampaign|MissionBestTime">
+        <Key name="ZZerus3-2">
+            <Value int="1168"/>
+        </Key>
+        <Key name="ZLab2-2">
+            <Value int="842"/>
+        </Key>
+        <Key name="ZChar3-2">
+            <Value int="1727"/>
+        </Key>
+        <Key name="ZExpedition2-2">
+            <Value int="1569"/>
+        </Key>
+        <Key name="ZLab1-2">
+            <Value int="565"/>
+        </Key>
+        <Key name="ZLab3-2">
+            <Value int="1128"/>
+        </Key>
+        <Key name="ZChar2-2">
+            <Value int="1574"/>
+        </Key>
+        <Key name="ZChar1-2">
+            <Value int="995"/>
+        </Key>
+        <Key name="ZZerus1-2">
+            <Value int="1410"/>
+        </Key>
+        <Key name="ZZerus2-2">
+            <Value int="1580"/>
+        </Key>
+        <Key name="ZExpedition1-2">
+            <Value int="1505"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
