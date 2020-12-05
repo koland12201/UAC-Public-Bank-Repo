@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="C">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="selffak">
+            <Value string="None"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

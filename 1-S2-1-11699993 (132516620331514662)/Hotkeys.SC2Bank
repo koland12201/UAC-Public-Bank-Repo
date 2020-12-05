@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="29"/>
+        </Key>
+        <Key name="C">
+            <Value int="23"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="teamlocation">
+            <Value string="I"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="U"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
