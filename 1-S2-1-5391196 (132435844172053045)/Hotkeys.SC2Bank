@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="30"/>
+        </Key>
+        <Key name="C">
+            <Value int="21"/>
+        </Key>
+    </Section>
+    <Signature value="897B08E2459FB0B3763402F9EB1CBA018E15F837"/>
+</Bank>
