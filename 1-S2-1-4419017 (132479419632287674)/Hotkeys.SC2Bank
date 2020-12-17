@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Blood Transfusion/Improved Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="SITREP Hotkey">
+            <Value string="Button/Hotkey/F"/>
+        </Key>
+        <Key name="Cognitive Enhancement/Improved Hotkey">
+            <Value string="Button/Hotkey/R"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="38"/>
+        </Key>
+        <Key name="C">
+            <Value int="32"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MissionStarted">
+        <Key name="16-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="3"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="2-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="LastDifficulty">
+        <Key name="16">
+            <Value int="3"/>
+        </Key>
+        <Key name="14">
+            <Value int="3"/>
+        </Key>
+        <Key name="4">
+            <Value int="3"/>
+        </Key>
+        <Key name="9">
+            <Value int="3"/>
+        </Key>
+        <Key name="19">
+            <Value int="4"/>
+        </Key>
+        <Key name="6">
+            <Value int="3"/>
+        </Key>
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="3">
+            <Value int="3"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
+        </Key>
+        <Key name="8">
+            <Value int="3"/>
+        </Key>
+        <Key name="10">
+            <Value int="3"/>
+        </Key>
+        <Key name="2">
+            <Value int="3"/>
+        </Key>
+        <Key name="11">
+            <Value int="3"/>
+        </Key>
+        <Key name="15">
+            <Value int="3"/>
+        </Key>
+        <Key name="7">
+            <Value int="3"/>
+        </Key>
+        <Key name="17">
+            <Value int="3"/>
+        </Key>
+        <Key name="13">
+            <Value int="3"/>
+        </Key>
+        <Key name="12">
+            <Value int="3"/>
+        </Key>
+        <Key name="18">
+            <Value int="4"/>
+        </Key>
+        <Key name="5">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Evolutions">
+        <Key name="19-3-2">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="16-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-3-4">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Vile) Hydralisk(HydraliskLurker) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="17-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper)"/>
+        </Key>
+        <Key name="14-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="20-4-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="18-3-2">
+            <Value string=" Zergling(Raptor) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskLurker) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="20-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="6-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4-2">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Corpser) Hydralisk(HydraliskLurker) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB) Ultralisk(Noxious)"/>
+        </Key>
+        <Key name="19-3-3">
+            <Value string=" Zergling(Raptor) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="18-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="14-3-2">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="5-3-2">
+            <Value string=" Zergling(Swarmling) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="5-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="11-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser)"/>
+        </Key>
+        <Key name="9-3-1">
+            <Value string=" Zergling(Swarmling)"/>
+        </Key>
+        <Key name="19-4-1">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Corpser) Hydralisk(HydraliskLurker) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="18-2-1">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Corpser) Hydralisk(HydraliskLurker) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="19-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="5-3-3">
+            <Value string=" Zergling(Swarmling) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4-2">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Vile) Hydralisk(HydraliskLurker) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="20-3-2">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB) Ultralisk(Torrasque)"/>
+        </Key>
+        <Key name="1-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="16-3-2">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper)"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="3"/>
+        </Key>
+        <Key name="18-4-1">
+            <Value string=" Zergling(Raptor) Baneling(Hunter) Roach(Vile) Hydralisk(HydraliskLurker) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="13-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3-3">
+            <Value string=" Zergling(Raptor) Baneling(Hunter) Roach(Vile) Hydralisk(HydraliskLurker) Mutalisk(MutaliskViper) SwarmHost(SwarmHostSplitB)"/>
+        </Key>
+        <Key name="12-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser)"/>
+        </Key>
+        <Key name="2-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="10-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser)"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper)"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3-1">
+            <Value string=" Zergling(Swarmling) Roach(Corpser) Hydralisk(HydraliskImpaler)"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="16-3-1">
+            <Value string=" Zergling(Swarmling) Baneling(Hunter) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskViper)"/>
+        </Key>
+        <Key name="20-4-3">
+            <Value string=" Zergling(Swarmling) Baneling(Splitterling) Roach(Corpser) Hydralisk(HydraliskImpaler) Mutalisk(MutaliskBroodlord) SwarmHost(SwarmHostSplitB) Ultralisk(Noxious)"/>
+        </Key>
+    </Section>
+    <Section name="ArmyUpgrades">
+        <Key name="16-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="20-3-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="18-3-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="14-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="6-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="19-3-6">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="6"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="20-4-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="19-4-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="19-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="14-3-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="5-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="19-4-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration)"/>
+        </Key>
+        <Key name="13-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="18-4-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="1-2">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-3-5">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(TissueAssimilation)"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="8"/>
+        </Key>
+        <Key name="16-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration)"/>
+        </Key>
+        <Key name="11-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws)"/>
+        </Key>
+        <Key name="18-4-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(TissueAssimilation)"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="2"/>
+        </Key>
+        <Key name="13-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="12-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="2-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="15-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="14-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="8-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(RoachDamage)"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="4"/>
+        </Key>
+        <Key name="18-2-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="16-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="5-3-5">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="7-3-1">
+            <Value string=" Zergling(MetabolicBoost)"/>
+        </Key>
+        <Key name="20-4-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(TissueAssimilation)"/>
+        </Key>
+        <Key name="16-3-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration)"/>
+        </Key>
+        <Key name="12-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws)"/>
+        </Key>
+        <Key name="20-4-6">
+            <Value string=" Zergling(MetabolicBoost) Baneling(BanelingHeal) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands) Ultralisk(BurrowCharge)"/>
+        </Key>
+        <Key name="20-4-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(TissueAssimilation)"/>
+        </Key>
+        <Key name="19-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="2-3-1">
+            <Value string=" Zergling()"/>
+        </Key>
+        <Key name="18-3-7">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(TissueAssimilation)"/>
+        </Key>
+        <Key name="17-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="20-4-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="20-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="18-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="17-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration)"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="6-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="18-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="14-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="5-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="6"/>
+        </Key>
+        <Key name="11-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration)"/>
+        </Key>
+        <Key name="9-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(RoachDamage) Hydralisk(HydraliskFrenzy)"/>
+        </Key>
+        <Key name="18-2-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="19-3-1">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="5-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands)"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="9-3-2">
+            <Value string=" Zergling(MetabolicBoost)"/>
+        </Key>
+        <Key name="20-3-2">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="5-3-6">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="5-3-4">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="18-3-6">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="6"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-4-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(BanelingHeal) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="18-3-8">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="20-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="18-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="10-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws)"/>
+        </Key>
+        <Key name="19-3-5">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="4-3-2">
+            <Value string=" Zergling(MetabolicBoost) Roach(RoachShield) Hydralisk(GroovedSpines)"/>
+        </Key>
+        <Key name="10-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(TunnelingClaws) Hydralisk(HydraliskFrenzy)"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="4-3-1">
+            <Value string=" Zergling(MetabolicBoost) Roach(RoachShield) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost)"/>
+        </Key>
+        <Key name="20-4-5">
+            <Value string=" Zergling(MetabolicBoost) Baneling(BanelingHeal) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands) Ultralisk(BurrowCharge)"/>
+        </Key>
+        <Key name="18-4-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(BanelingHeal) Roach(RoachShield) Hydralisk(HydraliskFrenzy) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="16-3-3">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(PressurizedGlands) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="19-3-4">
+            <Value string=" Zergling(MetabolicBoost) Baneling(Rupture) Roach(TunnelingClaws) Hydralisk(GroovedSpines) Mutalisk(RapidRegeneration) SwarmHost(BurrowSwarmHost) Ultralisk(MonarchBlades)"/>
+        </Key>
+        <Key name="3-3-1">
+            <Value string=" Zergling()"/>
+        </Key>
+    </Section>
+    <Section name="MissionStartedLaunched">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="2-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="WeaponArmorUpgrades">
+        <Key name="19-3">
+            <Value string="G1M1G2M2G3R1M3R2R3 | G1R1G2M1R2G3R3"/>
+        </Key>
+        <Key name="15-3">
+            <Value string="G1M1G2M2G3M3R1"/>
+        </Key>
+        <Key name="14-3">
+            <Value string="G1M1G2M2R1"/>
+        </Key>
+        <Key name="8-3">
+            <Value string="R1G1M1"/>
+        </Key>
+        <Key name="5-3">
+            <Value string="G1M1G2M2R1"/>
+        </Key>
+        <Key name="7-3">
+            <Value string="G1R1M1"/>
+        </Key>
+        <Key name="6-3">
+            <Value string="G1M1G2M2R1"/>
+        </Key>
+        <Key name="18-3">
+            <Value string="G1R1M1G2 | G1M1M2G2 |  | G1M1M2G2"/>
+        </Key>
+        <Key name="20-4">
+            <Value string="M1G1R1M2R2G2M3G3R3 | M1R1G1M2R2G2M3R3G3"/>
+        </Key>
+        <Key name="11-3">
+            <Value string="G1G2R1M1"/>
+        </Key>
+        <Key name="19-4">
+            <Value string="M1M2G1M3R1R2G2G3R3"/>
+        </Key>
+        <Key name="18-2">
+            <Value string="G1R1M1"/>
+        </Key>
+        <Key name="10-3">
+            <Value string="G1F1F2G2"/>
+        </Key>
+        <Key name="3-3">
+            <Value string="G1M1R1"/>
+        </Key>
+        <Key name="20-3">
+            <Value string="G1R1M1G2M2R2F1G3R3M3 | G1M1G2R1M2G3M3F1R2"/>
+        </Key>
+        <Key name="13-3">
+            <Value string="G1M1"/>
+        </Key>
+        <Key name="4-3">
+            <Value string="G1M1G2M2R1"/>
+        </Key>
+        <Key name="18-4">
+            <Value string="G1M1G2 | M1G1M2G2M3R1G3F1R2"/>
+        </Key>
+    </Section>
+    <Section name="DifficultyDown">
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+        <Key name="18">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="StoryScenes"/>
+    <Section name="MissionDefeatedBasedDied">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionAborted">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="UnitCreated">
+        <Key name="19-3-2">
+            <Value string="Drone(58) HotSRaptor(632) CreepTumorQueen(15) Overlord(32) Extractor(4) CreepTumor(40) BanelingNest(1) RoachWarren(1) SpineCrawler(12) SiegeTankSieged(9) Marauder(1) SiegeTank(1) EvolutionChamber(1) InfestationPit(1) K5DroppodPlacement(3) PrimalHydralisk(15) Hatchery(1) SwarmHostSplitB(12) Queen(8) Goliath(1) VikingAssault(1) HydraliskDen(1) MengskThor(1) Banshee(1) Spire(1) SwarmHostSplitBPlacement(24) RoachCorpser(17) Infestor(4) HydraliskImpaler(7) InfestedAbomination(4) MutaliskViper(2) HotSHunter(26) "/>
+        </Key>
+        <Key name="17-3-1">
+            <Value string="CreepTumorQueen(10) CreepTumor(58) "/>
+        </Key>
+        <Key name="14-3-1">
+            <Value string="CreepTumor(11) Drone(25) HotSSwarmling(213) Overlord(5) Queen(2) CreepTumorQueen(5) Hatchery(1) Extractor(1) EvolutionChamber(2) RoachWarren(1) InfestedAbomination(4) "/>
+        </Key>
+        <Key name="20-4-1">
+            <Value string="Drone(130) CreepTumorQueen(17) Hatchery(8) CreepTumor(85) HotSSwarmling(1194) Overlord(29) Extractor(7) InfestedAbomination(7) EvolutionChamber(2) HydraliskDen(1) BanelingNest(2) RoachWarren(1) Spire(1) RoachCorpser(41) Queen(17) HydraliskLurker(70) InfestationPit(1) UltraliskCavern(1) SpineCrawler(38) SwarmHostSplitB(76) SwarmHostSplitBPlacement(726) SporeCrawler(29) MutaliskBroodlord(12) HotSSplitterlingBig(32) "/>
+        </Key>
+        <Key name="18-3-2">
+            <Value string="Drone(86) Queen(8) CreepTumorQueen(5) CreepTumor(25) HotSRaptor(764) Hatchery(7) Extractor(1) EvolutionChamber(1) SpineCrawler(25) Overlord(15) SporeCrawler(1) BanelingNest(1) HotSHunter(35) RoachWarren(1) RoachCorpser(9) K5DroppodPlacement(3) PrimalHydralisk(15) "/>
+        </Key>
+        <Key name="20-3-1">
+            <Value string="Drone(112) CreepTumor(84) CreepTumorQueen(22) Hatchery(11) HotSSwarmling(1555) Extractor(7) InfestationPit(1) Overlord(24) EvolutionChamber(2) SpineCrawler(31) Queen(15) UltraliskCavern(1) Spire(1) HydraliskDen(1) HydraliskImpaler(33) Impaler(10) RoachWarren(1) SwarmHostSplitB(51) SwarmHostSplitBPlacement(377) SporeCrawler(3) RoachCorpser(37) MutaliskViper(6) BanelingNest(1) Viper(6) HotSHunter(131) "/>
+        </Key>
+        <Key name="1-2-1">
+            <Value string="Hatchery(1) Overlord(4) Drone(8) SpawningPool(1) Zergling(28) "/>
+        </Key>
+        <Key name="19-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="6-3-1">
+            <Value string="Drone(61) CreepTumor(146) Overlord(23) Hatchery(10) SpineCrawler(2) Extractor(6) HotSSwarmling(724) EvolutionChamber(1) Queen(11) CreepTumorQueen(23) InfestationPit(1) HydraliskDen(1) InfestedAbomination(11) "/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4-2">
+            <Value string="CreepTumorQueen(107) Drone(126) Queen(29) CreepTumor(136) HotSSwarmling(1061) Hatchery(14) Extractor(5) Overlord(19) EvolutionChamber(3) RoachWarren(2) BanelingNest(1) InfestationPit(1) HydraliskDen(1) SpineCrawler(58) RoachCorpser(83) SporeCrawler(30) SwarmHostSplitB(48) HydraliskImpaler(10) SwarmHostSplitBPlacement(410) UltraliskCavern(1) Infestor(10) HotSNoxious(20) MengskMarine(11) VikingAssault(1) Spire(1) MengskReaper(14) WarHound(3) HotSSplitterlingBig(118) MutaliskBroodlord(7) MengskSiegeTankSieged(3) BroodLord(7) BroodlingEscort(587) MengskGoliath(6) MengskFirebat(1) SpawningPool(1) Impaler(9) InfestedAbomination(1) "/>
+        </Key>
+        <Key name="18-3-1">
+            <Value string="Drone(70) Queen(5) CreepTumorQueen(6) Hatchery(4) CreepTumor(59) RoachWarren(1) Extractor(5) HotSSwarmling(817) SpineCrawler(14) RoachCorpser(34) Overlord(21) SporeCrawler(6) Spire(1) InfestationPit(1) EvolutionChamber(3) SwarmHostSplitB(24) SwarmHostSplitBPlacement(99) MutaliskViper(8) InfestedAbomination(2) Viper(8) Medivac(8) "/>
+        </Key>
+        <Key name="14-3-2">
+            <Value string="CreepTumor(42) Drone(36) HotSSwarmling(580) Overlord(24) Hatchery(3) EvolutionChamber(2) Queen(7) CreepTumorQueen(14) Extractor(3) RoachWarren(1) InfestationPit(1) SwarmHost(19) RoachCorpser(25) InfestedAbomination(9) SpineCrawler(6) "/>
+        </Key>
+        <Key name="5-3-2">
+            <Value string="Drone(23) CreepTumor(83) Queen(11) HotSSwarmling(601) Overlord(15) CreepTumorQueen(32) Hatchery(4) EvolutionChamber(2) Extractor(1) "/>
+        </Key>
+        <Key name="5-3-1">
+            <Value string="Drone(3) "/>
+        </Key>
+        <Key name="5-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="11-3-1">
+            <Value string="Drone(74) SwarmHost(14) Hatchery(4) Overlord(19) CreepTumorQueen(3) CreepTumor(10) Extractor(4) SpineCrawler(17) RoachWarren(1) HotSSwarmling(300) EvolutionChamber(1) RoachCorpser(37) SporeCrawler(8) Spire(1) Queen(1) Mutalisk(27) "/>
+        </Key>
+        <Key name="9-3-1">
+            <Value string="SwarmQueen(1) SwarmQueenEgg(165) HotSSwarmling(495) "/>
+        </Key>
+        <Key name="19-4-1">
+            <Value string="CreepTumorQueen(31) Drone(64) CreepTumor(78) HotSSwarmling(497) Extractor(4) Overlord(38) InfestedAbomination(4) UltraliskCavern(1) SiegeTankSieged(6) Ghost(1) EvolutionChamber(2) SiegeTank(1) HotSTorrasque(7) Queen(8) InfestationPit(1) HydraliskDen(2) Hatchery(4) K5DroppodPlacement(3) PrimalHydralisk(15) HydraliskLurker(25) Firebat(1) SwarmHostSplitB(5) MengskThor(1) SpineCrawler(14) SporeCrawler(20) RoachWarren(1) BanelingNest(1) Spire(1) RoachCorpser(13) SwarmHostSplitBPlacement(9) MutaliskBroodlord(6) HotSSplitterlingBig(119) "/>
+        </Key>
+        <Key name="18-2-1">
+            <Value string="Drone(76) AutomatedExtractor(6) Queen(4) CreepTumorQueen(13) CreepTumor(87) EvolutionChamber(1) RoachWarren(1) BanelingNest(1) HydraliskDen(1) RoachCorpser(35) Overlord(15) SpineCrawler(24) SporeCrawler(2) HydraliskLurker(97) Hatchery(4) K5DroppodPlacement(2) PrimalHydralisk(10) "/>
+        </Key>
+        <Key name="19-3-1">
+            <Value string="Drone(68) CreepTumorQueen(29) HotSSwarmling(907) CreepTumor(106) Extractor(4) Overlord(21) EvolutionChamber(1) SporeCrawler(5) SpineCrawler(16) SiegeTankSieged(6) InfestationPit(1) UltraliskCavern(1) Hatchery(8) Queen(11) Marauder(1) HotSTorrasque(6) Goliath(1) MengskThor(1) Spire(1) SwarmHostSplitB(16) MutaliskViper(17) Viper(6) SwarmHostSplitBPlacement(46) "/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4-2">
+            <Value string="Drone(86) Queen(4) CreepTumorQueen(3) Extractor(5) Hatchery(5) HotSSwarmling(645) CreepTumor(30) EvolutionChamber(1) SpineCrawler(14) Overlord(21) InfestationPit(1) Spire(1) K5DroppodPlacement(5) PrimalHydralisk(25) SwarmHostSplitB(20) RoachWarren(1) BanelingNest(1) RoachVile(11) SwarmHostSplitBPlacement(85) SporeCrawler(17) HotSSplitterlingBig(109) MutaliskBroodlord(18) BroodLord(6) BroodlingEscort(159) HydraliskDen(1) UltraliskCavern(1) HydraliskLurker(11) Ultralisk(3) "/>
+        </Key>
+        <Key name="20-3-2">
+            <Value string="CreepTumor(82) Drone(62) HotSSwarmling(1177) Hatchery(7) Queen(14) Overlord(24) CreepTumorQueen(21) Extractor(5) EvolutionChamber(1) InfestationPit(1) HydraliskDen(1) Spire(1) SpineCrawler(4) HydraliskImpaler(41) K5DroppodPlacement(3) PrimalHydralisk(15) MutaliskViper(36) SwarmHostSplitB(15) Viper(12) VikingFighter(1) MengskBC(1) SwarmHostSplitBPlacement(179) BanelingNest(1) HotSHunter(50) UltraliskCavern(1) InfestedAbomination(10) HotSTorrasque(5) "/>
+        </Key>
+        <Key name="1-3-2">
+            <Value string="Hatchery(1) "/>
+        </Key>
+        <Key name="1-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-4-1">
+            <Value string="HotSRaptor(320) Queen(7) CreepTumorQueen(6) Drone(29) CreepTumor(22) Extractor(1) Hatchery(2) Overlord(7) SpineCrawler(1) EvolutionChamber(1) BanelingNest(1) InfestedAbomination(4) InfestationPit(1) HydraliskDen(1) HydraliskLurker(10) SwarmHostSplitB(2) SwarmHostSplitBPlacement(2) "/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="13-3-1">
+            <Value string="CreepTumor(55) VespeneGeyser(1) Drone(31) Queen(1) HotSSwarmling(866) Overlord(20) SpineCrawler(2) CreepTumorQueen(4) Hatchery(2) Extractor(1) SwarmHost(17) EvolutionChamber(2) InfestedAbomination(9) "/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3-3">
+            <Value string="Drone(56) Queen(10) CreepTumorQueen(6) HotSSwarmling(716) CreepTumor(37) Hatchery(3) Extractor(4) HydraliskDen(1) SpineCrawler(7) EvolutionChamber(1) HydraliskLurker(21) Overlord(17) RoachWarren(1) RoachVile(17) K5DroppodPlacement(1) PrimalHydralisk(5) Spire(1) InfestationPit(1) "/>
+        </Key>
+        <Key name="1-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="10-3-1">
+            <Value string="Drone(41) HotSSwarmling(509) CreepTumor(8) CreepTumorQueen(1) Overlord(19) SpineCrawler(11) Mutalisk(55) Hatchery(4) Extractor(3) "/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3-1">
+            <Value string="Hatchery(1) Overlord(9) Drone(5) SpawningPool(1) Zergling(54) "/>
+        </Key>
+        <Key name="20-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3-1">
+            <Value string="CreepTumor(44) Drone(51) HotSSwarmling(783) Queen(3) CreepTumorQueen(12) Overlord(21) Hatchery(4) EvolutionChamber(2) Extractor(4) InfestationPit(1) InfestedAbomination(2) SwarmHost(8) HydraliskDen(1) HydraliskImpaler(59) Impaler(4) Ultralisk(3) "/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3-1">
+            <Value string="CreepTumor(14) Drone(51) HotSSwarmling(563) Overlord(20) Baneling(50) Hatchery(9) EvolutionChamber(6) Extractor(2) SpineCrawler(2) Queen(12) CreepTumorQueen(13) InfestationPit(1) "/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8-3-1">
+            <Value string="CreepTumor(40) Drone(77) Overlord(21) Extractor(3) EvolutionChamber(1) Hydralisk(114) SpineCrawler(24) Queen(6) CreepTumorQueen(4) SporeCrawler(24) Hatchery(5) RoachWarren(1) "/>
+        </Key>
+        <Key name="18-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="7-3-1">
+            <Value string="VespeneGeyser(1) Drone(61) CreepTumor(28) Queen(7) SpineCrawler(11) CreepTumorQueen(6) Overlord(23) Extractor(5) EvolutionChamber(2) Hatchery(6) Roach(125) Zergling(10) "/>
+        </Key>
+        <Key name="3-3-1">
+            <Value string="Drone(25) SpawningPool(1) SpineCrawler(8) Extractor(1) Queen(15) CreepTumorQueen(55) Overlord(7) CreepTumor(141) Zergling(304) Hatchery(3) EvolutionChamber(1) "/>
+        </Key>
+    </Section>
+    <Section name="MissionDefeated">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Kerrigan">
+        <Key name="19-3-2">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="16-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="18-3-4">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="17-3-1">
+            <Value string="Level 57: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns)"/>
+        </Key>
+        <Key name="14-3-1">
+            <Value string="Level 49: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="20-4-1">
+            <Value string="Level 70: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="18-3-2">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5TwoDrones) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="20-3-1">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="6-3-1">
+            <Value string="Level 44: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4-2">
+            <Value string="Level 70: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="19-3-3">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="18-3-1">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="14-3-2">
+            <Value string="Level 49: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="5-3-2">
+            <Value string="Level 42: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="5-3-1">
+            <Value string="Level 42: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5AutoExtractor) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="11-3-1">
+            <Value string="Level 15: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn)"/>
+        </Key>
+        <Key name="9-3-1">
+            <Value string="Level 11: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn)"/>
+        </Key>
+        <Key name="19-4-1">
+            <Value string="Level 70: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="18-2-1">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5AutoExtractor) 4(K5WildMutation) 5(K5TwoDrones) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="19-3-1">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="5-3-3">
+            <Value string="Level 42: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4-2">
+            <Value string="Level 70: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="20-3-2">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="16-3-2">
+            <Value string="Level 57: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns)"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="4"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="3"/>
+        </Key>
+        <Key name="18-4-1">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="13-3-1">
+            <Value string="Level 46: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3-3">
+            <Value string="Level 68: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5DropPods)"/>
+        </Key>
+        <Key name="12-3-1">
+            <Value string="Level 26: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4()"/>
+        </Key>
+        <Key name="10-3-1">
+            <Value string="Level 12: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn)"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3-1">
+            <Value string="Level 51: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns)"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3-1">
+            <Value string="Level 35: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses)"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8-3-1">
+            <Value string="Level 8: 1(K5MindBolt) 2(K5CrushingGrip)"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="16-3-1">
+            <Value string="Level 57: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns)"/>
+        </Key>
+        <Key name="7-3-1">
+            <Value string="Level 1: 1(K5MindBolt) 2(K5CrushingGrip)"/>
+        </Key>
+        <Key name="20-4-3">
+            <Value string="Level 70: 1(K5MindBolt) 2(K5CrushingGrip) 3(K5ZerglingRespawn) 4(K5WildMutation) 5(K5CreepBonuses) 6(K5Cooldowns) 7(K5Leviathan)"/>
+        </Key>
+    </Section>
+    <Section name="KerriganDeathMax">
+        <Key name="19-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionStartedMasterArchives">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="3"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="10-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="MissionLoaded">
+        <Key name="12-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="MissionOrder">
+        <Key name="1">
+            <Value string="LEzErZhCbHmHSsKuK"/>
+        </Key>
+    </Section>
+    <Section name="DifficultyUp">
+        <Key name="19">
+            <Value int="1"/>
+        </Key>
+        <Key name="20">
+            <Value int="1"/>
+        </Key>
+        <Key name="18">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="MissionCompleted">
+        <Key name="16-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="15-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="14-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="5-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="7-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="6-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="12-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-3">
+            <Value int="3"/>
+        </Key>
+        <Key name="20-4">
+            <Value int="2"/>
+        </Key>
+        <Key name="17-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="11-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="19-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="10-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="2-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="1-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="3-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="20-3">
+            <Value int="2"/>
+        </Key>
+        <Key name="13-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="4-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="9-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="18-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
