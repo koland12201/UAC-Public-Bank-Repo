@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="23"/>
+        </Key>
+        <Key name="C">
+            <Value int="19"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="save">
+            <Value string="BackSpace"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Minus"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="Equals"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
