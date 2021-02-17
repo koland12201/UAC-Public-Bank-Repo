@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Cavalry Scout">
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/J"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Medic">
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/S"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="5"/>
+        </Key>
+        <Key name="C">
+            <Value int="18"/>
+        </Key>
+    </Section>
+    <Section name="Ghost">
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Platoon Leader">
+        <Key name="Field Aid Hotkey">
+            <Value string="Button/Hotkey/J"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

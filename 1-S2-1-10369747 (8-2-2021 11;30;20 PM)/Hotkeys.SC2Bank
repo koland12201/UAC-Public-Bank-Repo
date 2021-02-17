@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="42"/>
+        </Key>
+        <Key name="C">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Combat Engineer">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/L"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
