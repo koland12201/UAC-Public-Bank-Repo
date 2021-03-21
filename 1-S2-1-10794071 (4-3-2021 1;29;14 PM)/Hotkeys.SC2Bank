@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="0"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="44"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="hud">
+            <Value string="NumPadMinus"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Grave"/>
+        </Key>
+        <Key name="cleartext">
+            <Value string="4"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="Escape"/>
+        </Key>
+        <Key name="simenu">
+            <Value string="None"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="Tab"/>
+        </Key>
+        <Key name="camodecal">
+            <Value string="None"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

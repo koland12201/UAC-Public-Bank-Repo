@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman">
+        <Key name="Sprint Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Firemode Burst/Semi Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Attack Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Ground Flare Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Stop Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Additional Actions Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Smoke Grenade Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Hold Position Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Focus Fire Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Learn Abilities Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+        <Key name="Frag/MGL Hotkey">
+            <Value string="Button/Hotkey/A"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="19"/>
+        </Key>
+        <Key name="C">
+            <Value int="47"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

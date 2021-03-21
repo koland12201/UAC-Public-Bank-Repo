@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="26"/>
+        </Key>
+        <Key name="C">
+            <Value int="30"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="selffak">
+            <Value string="Y"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="None"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="None"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="None"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

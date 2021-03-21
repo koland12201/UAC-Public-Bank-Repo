@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="7"/>
+        </Key>
+        <Key name="C">
+            <Value int="12"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="hud">
+            <Value string="Tab"/>
+        </Key>
+        <Key name="inventory">
+            <Value string="None"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="None"/>
+        </Key>
+        <Key name="cleartext">
+            <Value string="Period"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="F7"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="F8"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

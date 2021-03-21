@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="17"/>
+        </Key>
+        <Key name="C">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="statusmenu">
+            <Value string="Period"/>
+        </Key>
+        <Key name="hud">
+            <Value string="BackSlash"/>
+        </Key>
+        <Key name="inventory">
+            <Value string="Period"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Grave"/>
+        </Key>
+        <Key name="fireteams">
+            <Value string="SemiColon"/>
+        </Key>
+        <Key name="simenu">
+            <Value string="BracketOpen"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="Apostrophe"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

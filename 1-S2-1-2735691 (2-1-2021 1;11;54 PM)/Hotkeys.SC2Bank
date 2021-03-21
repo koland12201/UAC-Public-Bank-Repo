@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="0"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="29"/>
+        </Key>
+        <Key name="C">
+            <Value int="21"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="teamlocation">
+            <Value string="Tab"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

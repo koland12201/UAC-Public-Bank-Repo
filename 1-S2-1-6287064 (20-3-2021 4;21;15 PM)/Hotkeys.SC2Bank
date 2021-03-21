@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Rifleman"/>
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="35"/>
+        </Key>
+        <Key name="C">
+            <Value int="19"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="statusmenu">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="save">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="stats">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="achievements">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="inventory">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Grave"/>
+        </Key>
+        <Key name="cleartext">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="fireteams">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="simenu">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="pingdead">
+            <Value string="BracketClose"/>
+        </Key>
+        <Key name="camodecal">
+            <Value string="BracketClose"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

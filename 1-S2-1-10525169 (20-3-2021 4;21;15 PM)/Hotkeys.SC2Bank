@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="7"/>
+        </Key>
+        <Key name="C">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="save">
+            <Value string="M"/>
+        </Key>
+        <Key name="achievements">
+            <Value string="Period"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Grave"/>
+        </Key>
+        <Key name="simenu">
+            <Value string="Minus"/>
+        </Key>
+        <Key name="camodecal">
+            <Value string="SemiColon"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
