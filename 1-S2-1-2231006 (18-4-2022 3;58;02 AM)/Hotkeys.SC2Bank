@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Squad Designated Marksman">
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="Enforcer">
+        <Key name="Shield Bash Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="MOS Labels">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Last Rankset">
+            <Value int="2"/>
+        </Key>
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Fireteam Auto Join">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Autoglaze">
+            <Value int="39"/>
+        </Key>
+        <Key name="Hide Kick">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam Rally">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Explosive Control Group">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Coop"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="4"/>
+        </Key>
+        <Key name="C">
+            <Value int="35"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="inventory">
+            <Value string="H"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="G"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="Grave"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Orbital Satellite Recon Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Binocular Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Immediate Flare Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+        <Key name="Call For Fire Hotkey">
+            <Value string="Button/Hotkey/C"/>
+        </Key>
+        <Key name="Laser Designate Hotkey">
+            <Value string="Button/Hotkey/D"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
