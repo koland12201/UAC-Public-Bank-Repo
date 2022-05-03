@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="IBD">
+        <Key name="UAC">
+            <Value string=""/>
+        </Key>
+    </Section>
+    <Section name="IBH">
+        <Key name="ID">
+            <Value string="1-S2-1-10806595"/>
+        </Key>
+        <Key name="HEAD">
+            <Value string=""/>
+        </Key>
+    </Section>
+    <Signature value="8B5BC10979A728E1F11E86C90074E8A7D9DC1193"/>
+</Bank>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="Last Rankset">
+            <Value int="3"/>
+        </Key>
+        <Key name="Fireteam Auto Join">
+            <Value flag="0"/>
+        </Key>
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Autoglaze">
+            <Value int="39"/>
+        </Key>
+        <Key name="Hide Kick">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Fireteam Rally">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Explosive Control Group">
+            <Value flag="0"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Coop"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="0"/>
+        </Key>
+        <Key name="C">
+            <Value int="41"/>
+        </Key>
+    </Section>
+    <Section name="Custom Hotkeys">
+        <Key name="selffak">
+            <Value string="N"/>
+        </Key>
+        <Key name="teamlocation">
+            <Value string="Y"/>
+        </Key>
+        <Key name="sitrep">
+            <Value string="None"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

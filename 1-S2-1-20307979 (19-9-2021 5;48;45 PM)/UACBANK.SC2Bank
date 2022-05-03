@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="UACBANK">
+        <Key name="UniversalSIs">
+            <Value string="1111111111111111111111111111110011"/>
+        </Key>
+        <Key name="MOSSIs">
+            <Value string="1111111111111011101111111011101100111111"/>
+        </Key>
+        <Key name="Decals">
+            <Value string="1111111001011111111111111101110000100101111100111100"/>
+        </Key>
+        <Key name="GamesWonNightmare">
+            <Value int="15"/>
+        </Key>
+        <Key name="NAID">
+            <Value string="1-S2-1-20307979"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="802"/>
+        </Key>
+        <Key name="GamesWonInvasion">
+            <Value int="11"/>
+        </Key>
+        <Key name="GamesWonPMCSurvival">
+            <Value int="27"/>
+        </Key>
+        <Key name="WO">
+            <Value int="628163"/>
+        </Key>
+        <Key name="CO">
+            <Value int="847056"/>
+        </Key>
+        <Key name="GamesWonInsane">
+            <Value int="8"/>
+        </Key>
+        <Key name="GamesWonSurvival">
+            <Value int="146"/>
+        </Key>
+        <Key name="EN">
+            <Value int="708487"/>
+        </Key>
+        <Key name="GamesWonBossMode">
+            <Value int="35"/>
+        </Key>
+        <Key name="EndlessTime">
+            <Value int="9"/>
+        </Key>
+        <Key name="GamesWonRecruit">
+            <Value int="6"/>
+        </Key>
+        <Key name="GamesWonHard">
+            <Value int="9"/>
+        </Key>
+        <Key name="Achievements">
+            <Value string="11111111111111111111111111111111111111111111111111"/>
+        </Key>
+        <Key name="KRID">
+            <Value string="NONE"/>
+        </Key>
+        <Key name="Version">
+            <Value int="1"/>
+        </Key>
+        <Key name="GamesWonNormal">
+            <Value int="15"/>
+        </Key>
+        <Key name="GamesWonPMCCampaign">
+            <Value int="7"/>
+        </Key>
+        <Key name="Revives">
+            <Value int="10234"/>
+        </Key>
+        <Key name="EUID">
+            <Value string="NONE"/>
+        </Key>
+        <Key name="Migrated">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Signature">
+            <Value string="EB20711161DB0195395207BE626FD4D589967F3A"/>
+        </Key>
+        <Key name="TeamKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="Camos">
+            <Value string="11111111111111111111111011101111101010101101001110101111111111"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>

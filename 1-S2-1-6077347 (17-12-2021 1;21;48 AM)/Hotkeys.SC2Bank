@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Flamethrower">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+        <Key name="Plasma Shield Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Heavy Gunner">
+        <Key name="Spin Barrels On/Off Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Section name="Automatic Rifleman">
+        <Key name="Jump Hotkey">
+            <Value string="Button/Hotkey/Q"/>
+        </Key>
+    </Section>
+    <Section name="A">
+        <Key name="Command Card">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="Last Rankset">
+            <Value int="1"/>
+        </Key>
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Fireteam Auto Join">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Autoglaze">
+            <Value int="-1"/>
+        </Key>
+        <Key name="Hide Kick">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam Rally">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Explosive Control Group">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="28"/>
+        </Key>
+        <Key name="C">
+            <Value int="37"/>
+        </Key>
+    </Section>
+    <Section name="Fire Support Specialist">
+        <Key name="Strafe Run Hotkey">
+            <Value string="Button/Hotkey/E"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
