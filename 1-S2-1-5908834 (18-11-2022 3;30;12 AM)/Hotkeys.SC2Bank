@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="MOS Labels">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Last Rankset">
+            <Value int="3"/>
+        </Key>
+        <Key name="Fireteam Auto Join">
+            <Value flag="0"/>
+        </Key>
+        <Key name="StatusMenu">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Autoglaze">
+            <Value int="-1"/>
+        </Key>
+        <Key name="Hide Kick">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Fireteam Rally">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Explosive Control Group">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PingStyle">
+            <Value string="Default"/>
+        </Key>
+        <Key name="Fireteam">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="Unlocks">
+        <Key name="D">
+            <Value int="10"/>
+        </Key>
+        <Key name="C">
+            <Value int="49"/>
+        </Key>
+    </Section>
+    <Signature value=""/>
+</Bank>
